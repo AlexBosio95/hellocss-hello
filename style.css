@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    box-sizing: border-box; 
+}
+
+.Titolone{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.Titolone h1{
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    line-height: 100vh;
+    width: 100%;
+
+}
+
+.Titolone img{
+    background-size: contain;
+    width: 100%;
+}
